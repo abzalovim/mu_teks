@@ -1,0 +1,9 @@
+---
+:orm: sequel
+:test: cucumber
+:mock: none
+:script: jquery
+:renderer: haml
+:stylesheet: none
+:namespace: MuTeks
+:migration_format: number
